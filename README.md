@@ -12,3 +12,6 @@ class:
 '9'-16QAM;
 '10'-64QAM;
 '11'-128QAM.
+
+
+ Please cite the paper: Duona Zhang  ; Wenrui Ding  ; Chunhui Liu  ; Hongyu Wang  ; Baochang Zhang ,Modulated Autocorrelation Convolution Networks for Automatic Modulation Classification Based on Small Sample Set, IEEE Access 2020. 
